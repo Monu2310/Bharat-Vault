@@ -10,8 +10,8 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: "Bharat Vault",
-  description: "Bharat Vault - The only storage solution you need.",
+  title: "Store It",
+  description: "Store It - The only storage solution you need.",
 };
 
 export default function RootLayout({
